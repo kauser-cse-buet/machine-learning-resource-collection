@@ -28,3 +28,6 @@ Basic Idea2: https://www.youtube.com/watch?v=k_7gMp5wh5A
 Ensemble methods
 Basic Idea: https://www.youtube.com/watch?v=Yvn3--rIdZg
 Basic Idea: https://www.youtube.com/watch?v=Un9zObFjBH0
+
+Adaboost: 
+http://www.ccs.neu.edu/home/vip/teach/MLcourse/4_boosting/slides/boosting.pdf
