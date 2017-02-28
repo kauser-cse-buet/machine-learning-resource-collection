@@ -31,3 +31,6 @@ Ensemble methods
 
 Adaboost: 
 - http://www.ccs.neu.edu/home/vip/teach/MLcourse/4_boosting/slides/boosting.pdf
+
+logistic regression on linearly seperable data: 
+- http://courses.cs.washington.edu/courses/cse599c1/13wi/slides/l2-regularization-online-perceptron.pdf
