@@ -34,3 +34,7 @@ Adaboost:
 
 logistic regression on linearly seperable data: 
 - http://courses.cs.washington.edu/courses/cse599c1/13wi/slides/l2-regularization-online-perceptron.pdf
+
+
+parameter tuning: 
+gradient boosting regressor: https://www.analyticsvidhya.com/blog/2016/02/complete-guide-parameter-tuning-gradient-boosting-gbm-python/
